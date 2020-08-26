@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey! 👋
+
+Whoa! You've stumbled upon my github profile! Thanks for stopping by! 😄
+
+## Who am I?
+My name is **William Qi**, and I'm a senior at Mother Margaret Mary High School. I've been recently working with **Java** after having experimented with and creating projects with **Node.js** the past few years. Currently, I'm volunteering for [@MoonCraft-Games](https://github.com/Mooncraft-Games) as a Java Software Developer.
+Outside of programming, I love playing Minecraft and StarCraft II, I enjoy the creative and strategic aspects of both games!
+
+## Contact
+You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/wq1/).
+Thanks for stopping by and I look forward to seeing you again!
 
 <!--
 **WillQi/WillQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
