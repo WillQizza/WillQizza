@@ -3,7 +3,7 @@
 Whoa! You've stumbled upon my github profile! Thanks for stopping by! 😄
 
 ## Who am I?
-My name is **William Qi**, and I'm a senior at Mother Margaret Mary High School. I've been recently working with **Java** after having experimented with and creating projects with **Node.js** the past few years. Currently, I'm volunteering for [@MoonCraft-Games](https://github.com/Mooncraft-Games) as a Java Software Developer.
+My name is **William Qi**, and I'm a senior at Mother Margaret Mary High School. I've been working with **Java** after having experimented with and creating projects with **Node.js** the past few years, and I'm volunteering for [@MoonCraft-Games](https://github.com/Mooncraft-Games) as a Java Software Developer.
 Outside of programming, I love playing Minecraft and StarCraft II, I enjoy the creative and strategic aspects of both games!
 
 ## Contact
