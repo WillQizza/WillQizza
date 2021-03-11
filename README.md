@@ -9,18 +9,21 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 ## Current Projects
 
 ### Minecraft Bedrock Related
-[MadNukkit](https://github.com/Mooncraft-Games/MadNukkit) - Modified version of Nukkit to support versions 1.16.100+ rather than only the latest version.
-[PizzaServer](https://github.com/WillQi/PizzaServer) - Currently, a private WIP Minecraft Bedrock server software dedicated to 1.16.100 at the moment. 
-[MadBlock](https://github.com/Mooncraft-Games) - I work as a developer creating tools and games for a Minecraft Bedrock server alongside [CloudG360](https://github.com/CloudG360).
+- [MadNukkit](https://github.com/Mooncraft-Games/MadNukkit) - Modified version of Nukkit to support versions 1.16.100+ rather than only the latest version.
+- [PizzaServer](https://github.com/WillQi/PizzaServer) - Currently, a private WIP Minecraft Bedrock server software dedicated to 1.16.100 at the moment. 
+- [MadBlock](https://github.com/Mooncraft-Games) - I work as a developer creating tools and games for a Minecraft Bedrock server alongside [CloudG360](https://github.com/CloudG360).
 
 ### Minecraft Java Related
-[PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
+- [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
+
+### Other Related Projects
+- None at the moment! But I'm always down to try something new!
 
 ## Previous Projects
-[BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
-[FileWatchUpload](https://github.com/WillQi/FileWatchUpload) - Utility tool that I use to automatically upload files to my remote server as they are written to disk.
-[LoggyLogLog](https://github.com/WillQi/LoggyLogLog) - Simple Discord.js bot written in TypeScript to record messages that were deleted/edited for moderation purposes.
-[MMMConnect](https://github.com/WillQi/MMMConnect) - A small Facebook Replica project I created in grade ten
+- [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
+- [FileWatchUpload](https://github.com/WillQi/FileWatchUpload) - Utility tool that I use to automatically upload files to my remote server as they are written to disk.
+- [LoggyLogLog](https://github.com/WillQi/LoggyLogLog) - Simple Discord.js bot written in TypeScript to record messages that were deleted/edited for moderation purposes.
+- [MMMConnect](https://github.com/WillQi/MMMConnect) - A small Facebook Replica project I created in grade ten
 
 ## Contact
 You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/wq1/).
