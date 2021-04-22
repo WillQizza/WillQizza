@@ -14,12 +14,13 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [MadBlock](https://github.com/Mooncraft-Games) - I work as a developer creating tools and games for a Minecraft Bedrock server alongside [CloudG360](https://github.com/CloudG360).
 
 ### Minecraft Java Related
-- [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
+- None at the moment!
 
 ### Other Related Projects
-- None at the moment! But I'm always down to try something new!
+- [LeaderboardAPI](https://github.com/WillQi/LeaderboardAPI) - An easy to use leaderboard API using Redis!
 
 ## Previous Projects
+- [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
 - [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
 - [FileWatchUpload](https://github.com/WillQi/FileWatchUpload) - Utility tool that I use to automatically upload files to my remote server as they are written to disk.
 - [LoggyLogLog](https://github.com/WillQi/LoggyLogLog) - Simple Discord.js bot written in TypeScript to record messages that were deleted/edited for moderation purposes.
