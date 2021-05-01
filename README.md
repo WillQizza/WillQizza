@@ -17,7 +17,7 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - None at the moment!
 
 ### Other Related Projects
-- [LeaderboardAPI](https://github.com/WillQi/LeaderboardAPI) - An easy to use leaderboard API using Redis!
+- [LeaderboardAPI](https://github.com/WillQi/LeaderboardAPI) - An easy to use leaderboard API for Redis and SQL!
 
 ## Previous Projects
 - [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
@@ -27,7 +27,7 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [MMMConnect](https://github.com/WillQi/MMMConnect) - A small Facebook Replica project I created in grade ten
 
 ## Contact
-You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/wq1/).
+You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
 Thanks for stopping by and I look forward to seeing you again!
 
 <!--
