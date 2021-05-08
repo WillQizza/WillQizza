@@ -24,7 +24,6 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [FileWatchUpload](https://github.com/WillQi/FileWatchUpload) - Utility tool that I use to automatically upload files to my remote server as they are written to disk.
 - [LoggyLogLog](https://github.com/WillQi/LoggyLogLog) - Simple Discord.js bot written in TypeScript to record messages that were deleted/edited for moderation purposes.
 - [MMMConnect](https://github.com/WillQi/MMMConnect) - A small Facebook Replica project I created in grade ten
-- [Scrum]
 
 ## Contact
 You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
