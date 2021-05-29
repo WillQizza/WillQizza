@@ -16,7 +16,7 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
 
 ### Minecraft Java Related
-- [NarutoMC](https://github.com/WillQi/NarutoMC) - Spigot plugin that replicates many of the Jutsus in Naruto into Minecraft.
+- [PixzaRPG](https://github.com/PixzaRPG) - Spigot project to recreate a RPG like experience in Minecraft.
 - [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
 
 ### Other Projects
