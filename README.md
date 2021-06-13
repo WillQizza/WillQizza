@@ -12,11 +12,10 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [MadBlock](https://github.com/Mooncraft-Games) - I work as a developer creating tools and games for a Minecraft Bedrock server alongside [CloudG360](https://github.com/CloudG360).
 - [PizzaServer](https://github.com/WillQi/PizzaServer) - Currently, a private WIP Minecraft Bedrock server software dedicated to 1.16.100 at the moment. 
 - [MadNukkit](https://github.com/Mooncraft-Games/MadNukkit) - Forked version of PowerNukkit to support versions 1.16.100+ rather than only the latest version.
-- [TowerWars](https://github.com/Mooncraft-Games/GamemodeTowerWars) - Tower defense minigame built using Nukkit but with pathfinding, custom events, and customizable towers and enemies.
 - [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
 
 ### Minecraft Java Related
-- [PixzaRPG](https://github.com/PixzaRPG) - Spigot project to recreate a RPG like experience in Minecraft.
+- [PixzaRPG](https://github.com/PixzaRPG) - Spigot/Bungee project to recreate a RPG like experience in Minecraft.
 - [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
 
 ### Other Projects
@@ -26,5 +25,5 @@ Outside of programming, I love playing Minecraft and StarCraft II because I enjo
 - [MMMConnect](https://github.com/WillQi/MMMConnect) - A small Facebook Replica project I created in grade ten
 
 ## Contact
-You can reach me by [email](mailto:williamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
+You can reach me by [email](mailto:wqi3@ualberta.ca) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
 Thanks for stopping by and I look forward to seeing you again!
