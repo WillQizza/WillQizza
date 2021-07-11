@@ -9,11 +9,11 @@ My name is **William Qi**, and I'm an incoming first year Computing Science Hono
 
 ### Minecraft Bedrock Related
 - [MadBlock](https://github.com/Mooncraft-Games) - I work as a developer creating tools and games for a Minecraft Bedrock server alongside [CloudG360](https://github.com/CloudG360).
-- [PizzaServer](https://github.com/WillQi/PizzaServer) - Currently, a private WIP Minecraft Bedrock server software dedicated to 1.16.100 at the moment. 
+- [PizzaServer](https://github.com/WillQi/PizzaServer) - WIP Minecraft Bedrock server software that will support 1.16.100+. 
 - [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
 
 ### Minecraft Java Related
-- [PixzaRPG](https://github.com/PixzaRPG) - Spigot/Bungee project to recreate a RPG like experience in Minecraft.
+- [PixzaRPG](https://github.com/PixzaRPG) - Spigot/Bungee project to recreate a RPG like experience in Minecraft. Handles load balancing, gameplay, and more!
 - [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
 
 ### Other Projects
