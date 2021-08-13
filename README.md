@@ -13,8 +13,9 @@ My name is **William Qi**, and I'm an incoming first year Computing Science Hono
 - [BedrockWaypointMod](https://github.com/WillQi/BedrockWaypointMod) - Minecraft Bedrock mod that displays waypoints on the side of your screen depending on your coordinates.
 
 ### Minecraft Java Related
-- [PixzaRPG](https://github.com/PixzaRPG) - Spigot/Bungee project to recreate a RPG like experience in Minecraft. Handles load balancing, gameplay, and more!
-- [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks.
+- [ChatReport](https://github.com/WillQi/ChatReportPlugin) - Spigot plugin that allows players to report chat offenses to a Redis and SQL Node.js backend
+- [PizzaMCClaims](https://github.com/WillQi/PizzaMCClaims) - Spigot plugin that provides protection against griefing in your claimed chunks
+- [PixzaRPG](https://github.com/PixzaRPG) - WIP Spigot/Bungee project to recreate a RPG like experience in Minecraft. Handles load balancing, gameplay, and more!
 
 ### Other Projects
 - [LeaderboardAPI](https://github.com/WillQi/LeaderboardAPI) - An easy to use leaderboard API for Redis and SQL!
