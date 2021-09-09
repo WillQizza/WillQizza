@@ -8,7 +8,7 @@ My name is **William Qi**, and I'm an incoming first year Computing Science Hono
 ## Projects
 - [PizzaServer](https://github.com/WillQi/PizzaServer) - WIP Minecraft Bedrock server software that supports multiversion support for all versions above 1.16.100.
 - [RakNet](https://github.com/WillQi/RakNet) - Java implementation of the RakNet game protocol using Netty.
-- [ChatReport](https://github.com/WillQi/ChatReportPlugin) - Spigot plugin that allows players to report chat offenses to a Redis and SQL Node.js backend
+- [ChatReport](https://github.com/WillQi/ChatReportPlugin) - Spigot plugin that uploads chat logs to be reviewed to a Express.js website backed by SQL and Redis.
 
 ## Contact
 You can reach me by [email](mailto:wqi3@ualberta.ca) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
