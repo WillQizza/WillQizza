@@ -1,15 +1,8 @@
-### Hey! 👋
+### Hi there!
 
-Whoa! You've stumbled upon my github profile! Thanks for stopping by! 😄
+You've stumbled upon my github profile! My name is **William**, and I'm currently a third-year undergraduate at the University of Alberta studying Computing Science with Specialization. With a strong passion for software development, I've gained valuable experience in a variety of areas in the field that I use in my day-to-day life! 
 
-## Who am I?
-My name is **William**, and I'm an incoming first year Computing Science Honours undergraduate at the University of Alberta. I've been working with **Java** after having experimented with and creating projects with **Node.js** the past few years, and I'm working for [MadBlock Games](https://github.com/Mooncraft-Games) as a Java Software Developer.
-
-## Projects
-- [PizzaServer](https://github.com/WillQi/PizzaServer) - WIP Minecraft Bedrock server software that supports multiversion support for all versions above 1.16.100.
-- [RakNet](https://github.com/WillQi/RakNet) - Java implementation of the RakNet game protocol using Netty.
-- [ChatReport](https://github.com/WillQi/ChatReportPlugin) - Spigot plugin that uploads chat logs to be reviewed to a Express.js website backed by SQL and Redis.
+If you're interested, feel free to take a look around my profile or my personal website over [here](https://willqi.dev/)!
 
 ## Contact
-You can reach me by [email](mailto:wqi3@ualberta.ca) or via [LinkedIn](https://www.linkedin.com/in/william-qi/).
-Thanks for stopping by and I look forward to seeing you again!
+Feel free to reach out by [email](mailto:willamqi.250@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/william-qi/). I'm always open to new opportunities, collaborations, or just having a conversation about software development and technology.
