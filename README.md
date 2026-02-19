@@ -1,6 +1,6 @@
 ### Hi there!
 
-You've stumbled upon my github profile! My name is **William**, and I'm currently a third-year undergraduate at the University of Alberta studying Computing Science with Specialization. With a strong passion for software development, I've gained valuable experience in a variety of areas in the field that I use in my day-to-day life! 
+You've stumbled upon my github profile! My name is **William**, and I'm a Software Developer who graduated from the University of Alberta studying Computing Science with Specialization I've gained valuable experience in a variety of areas in the field that I use in my day-to-day life! 
 
 If you're interested, feel free to take a look around my profile or my personal website over [here](https://willqi.dev/)!
 
